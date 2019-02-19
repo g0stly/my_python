@@ -45,4 +45,4 @@ print('Выбрали фильм:', your_film, 'День:', your_date, 'Врем
 if type(cinema_price(your_film, your_time, your_tickets)) == int:
     print('Результат:', cinema_price(your_film, your_time, your_tickets) * discount(your_date, your_tickets), 'рублей')
 else:
-    print('Ошибка ввода')
+    print(cinema_price(your_film, your_time, your_tickets))
