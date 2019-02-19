@@ -1,4 +1,4 @@
-x1 = float(input('Введите x '))
+x1 = float(input('Введите x: '))
 
 
 def func(x):

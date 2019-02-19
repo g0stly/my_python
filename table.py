@@ -1,4 +1,4 @@
-elem = int(input('Введите номер атома '))
+elem = int(input('Введите номер элемента: '))
 if elem == 3:
     print('Li')
 elif elem == 25:

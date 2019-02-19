@@ -1,5 +1,5 @@
-your_code = int(input('Введите код города '))
-your_minutes = int(input('Введите длительность переговоров '))
+your_code = int(input('Введите код города: '))
+your_minutes = int(input('Введите длительность переговоров: '))
 
 
 def call_tel(code, minutes):

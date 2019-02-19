@@ -1,4 +1,4 @@
-x1 = int(input('Введите число '))
+x1 = int(input('Введите число: '))
 
 
 def even_test(x):
