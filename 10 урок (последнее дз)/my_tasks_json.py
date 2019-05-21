@@ -22,7 +22,7 @@ def instructions():
 
 
 command = 0
-todo = list(reader("my_tasks.json"))
+todo = list()
 
 while command != 3:
     instructions()
